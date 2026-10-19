@@ -1,0 +1,1844 @@
+[
+  {
+    "date": "2026-05-23",
+    "session": "weekend",
+    "environment": "outdoor",
+    "duration": "58:10",
+    "distance_km": 9.05,
+    "avg_hr_bpm": 185,
+    "max_hr_bpm": 195,
+    "avg_power_w": 236,
+    "avg_cadence_spm": 157,
+    "active_kcal": 861,
+    "apple_effort_score": 9,
+    "apple_effort_label": "Maximum",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:29",
+        "avg_hr_bpm": 161,
+        "avg_power_w": 265,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:43",
+        "avg_hr_bpm": 178,
+        "avg_power_w": 266,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "06:13",
+        "avg_hr_bpm": 184,
+        "avg_power_w": 245,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "06:34",
+        "avg_hr_bpm": 187,
+        "avg_power_w": 231,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "06:26",
+        "avg_hr_bpm": 190,
+        "avg_power_w": 235,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 6,
+        "duration": "06:42",
+        "avg_hr_bpm": 191,
+        "avg_power_w": 225,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 7,
+        "duration": "06:42",
+        "avg_hr_bpm": 192,
+        "avg_power_w": 226,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 8,
+        "duration": "06:50",
+        "avg_hr_bpm": 193,
+        "avg_power_w": 227,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 9,
+        "duration": "07:07",
+        "avg_hr_bpm": 182,
+        "avg_power_w": 217,
+        "avg_cadence_spm": 157
+      }
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "29:50",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 179,
+    "max_hr_bpm": 194,
+    "avg_power_w": 255,
+    "avg_cadence_spm": 158,
+    "active_kcal": 450,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:24",
+        "avg_hr_bpm": 152,
+        "avg_power_w": 272,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:47",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 263,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "06:09",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 248,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 4,
+        "duration": "06:06",
+        "avg_hr_bpm": 189,
+        "avg_power_w": 250,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "06:12",
+        "avg_hr_bpm": 191,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "29:19",
+    "distance_km": 5.07,
+    "avg_hr_bpm": 176,
+    "max_hr_bpm": 193,
+    "avg_power_w": 261,
+    "avg_cadence_spm": 158,
+    "active_kcal": 437,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+            {
+        "km": 1,
+        "duration": "05:27",
+        "avg_hr_bpm": 153,
+        "avg_power_w": 274,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:32",
+        "avg_hr_bpm": 169,
+        "avg_power_w": 272,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "05:59",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 253,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 4,
+        "duration": "05:58",
+        "avg_hr_bpm": 187,
+        "avg_power_w": 253,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "05:53",
+        "avg_hr_bpm": 191,
+        "avg_power_w": 257,
+        "avg_cadence_spm": 158
+      }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:53",
+    "distance_km": 5.04,
+    "avg_hr_bpm": 168,
+    "max_hr_bpm": 188,
+    "avg_power_w": 264,
+    "avg_cadence_spm": 159,
+    "active_kcal": 459,
+    "apple_effort_score": 6,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:20",
+        "avg_hr_bpm": 140,
+        "avg_power_w": 275,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:28",
+        "avg_hr_bpm": 151,
+        "avg_power_w": 274,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "05:48",
+        "avg_hr_bpm": 150,
+        "avg_power_w": 266,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "06:02",
+        "avg_hr_bpm": 178,
+        "avg_power_w": 252,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 5,
+        "duration": "05:54",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 257,
+        "avg_cadence_spm": 160
+      }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "session": "weekend",
+    "environment": "outdoor",
+    "duration": "23:54",
+    "distance_km": 4.01,
+    "avg_hr_bpm": 173,
+    "max_hr_bpm": 184,
+    "avg_power_w": 253,
+    "avg_cadence_spm": 158,
+    "active_kcal": 345,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:35",
+        "avg_hr_bpm": 159,
+        "avg_power_w": 257,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:40",
+        "avg_hr_bpm": 178,
+        "avg_power_w": 267,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 3,
+        "duration": "06:14",
+        "avg_hr_bpm": 175,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "06:14",
+        "avg_hr_bpm": 182,
+        "avg_power_w": 248,
+        "avg_cadence_spm": 160
+      }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:43",
+    "distance_km": 5.04,
+    "avg_hr_bpm": 170,
+    "max_hr_bpm": 184,
+    "avg_power_w": 267,
+    "avg_cadence_spm": 157,
+    "active_kcal": 386,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": 86.7,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:24",
+        "avg_hr_bpm": 154,
+        "avg_power_w": 281,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:31",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 277,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "05:55",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 257,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 4,
+        "duration": "05:48",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 263,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 5,
+        "duration": "05:47",
+        "avg_hr_bpm": 169,
+        "avg_power_w": 262,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "27:54",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 170,
+    "max_hr_bpm": 181,
+    "avg_power_w": 274,
+    "avg_cadence_spm": 159,
+    "active_kcal": 385,
+    "apple_effort_score": 6,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:17",
+        "avg_hr_bpm": 155,
+        "avg_power_w": 295,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:25",
+        "avg_hr_bpm": 172,
+        "avg_power_w": 280,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 3,
+        "duration": "05:46",
+        "avg_hr_bpm": 175,
+        "avg_power_w": 264,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "05:41",
+        "avg_hr_bpm": 172,
+        "avg_power_w": 267,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 5,
+        "duration": "05:35",
+        "avg_hr_bpm": 170,
+        "avg_power_w": 272,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:51",
+    "distance_km": 5.01,
+    "avg_hr_bpm": 171,
+    "max_hr_bpm": 190,
+    "avg_power_w": 265,
+    "avg_cadence_spm": 156,
+    "active_kcal": 405,
+    "apple_effort_score": 6,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:19",
+        "avg_hr_bpm": 150,
+        "avg_power_w": 295,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:24",
+        "avg_hr_bpm": 170,
+        "avg_power_w": 281,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "05:44",
+        "avg_hr_bpm": 165,
+        "avg_power_w": 267,
+        "avg_cadence_spm": 155
+      },
+      {
+        "km": 4,
+        "duration": "05:54",
+        "avg_hr_bpm": 186,
+        "avg_power_w": 256,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 5,
+        "duration": "06:22",
+        "avg_hr_bpm": 187,
+        "avg_power_w": 237,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:17",
+    "distance_km": 5.01,
+    "avg_hr_bpm": 175,
+    "max_hr_bpm": 192,
+    "avg_power_w": 272,
+    "avg_cadence_spm": 157,
+    "active_kcal": 412,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:05",
+        "avg_hr_bpm": 138,
+        "avg_power_w": 298,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:24",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 286,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "05:43",
+        "avg_hr_bpm": 180,
+        "avg_power_w": 269,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 4,
+        "duration": "05:56",
+        "avg_hr_bpm": 189,
+        "avg_power_w": 260,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 5,
+        "duration": "06:01",
+        "avg_hr_bpm": 191,
+        "avg_power_w": 258,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:12",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 170,
+    "max_hr_bpm": 184,
+    "avg_power_w": 272,
+    "avg_cadence_spm": 157,
+    "active_kcal": 394,
+    "apple_effort_score": 6,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:08",
+        "avg_hr_bpm": 144,
+        "avg_power_w": 288,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:41",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 273,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "05:53",
+        "avg_hr_bpm": 175,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 4,
+        "duration": "05:35",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 276,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 5,
+        "duration": "05:41",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 271,
+        "avg_cadence_spm": 156
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:53",
+    "distance_km": 5.03,
+    "avg_hr_bpm": 168,
+    "max_hr_bpm": 182,
+    "avg_power_w": 266,
+    "avg_cadence_spm": 159,
+    "active_kcal": 391,
+    "apple_effort_score": 6,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:35",
+        "avg_hr_bpm": 146,
+        "avg_power_w": 270,
+        "avg_cadence_spm": 163
+      },
+      {
+        "km": 2,
+        "duration": "05:28",
+        "avg_hr_bpm": 167,
+        "avg_power_w": 281,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 3,
+        "duration": "05:46",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 263,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 4,
+        "duration": "05:53",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 260,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 5,
+        "duration": "05:57",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 158
+      }
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "29:15",
+    "distance_km": 5.01,
+    "avg_hr_bpm": 176,
+    "max_hr_bpm": 188,
+    "avg_power_w": 263,
+    "avg_cadence_spm": 158,
+    "active_kcal": 421,
+    "apple_effort_score": null,
+    "apple_effort_label": null,
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": 86,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:04",
+        "avg_hr_bpm": 157,
+        "avg_power_w": 303,
+        "avg_cadence_spm": 165
+      },
+      {
+        "km": 2,
+        "duration": "05:25",
+        "avg_hr_bpm": 172,
+        "avg_power_w": 284,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "06:04",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 256,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 4,
+        "duration": "06:05",
+        "avg_hr_bpm": 185,
+        "avg_power_w": 252,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "06:27",
+        "avg_hr_bpm": 186,
+        "avg_power_w": 234,
+        "avg_cadence_spm": 157
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "29:09",
+    "distance_km": 5.13,
+    "avg_hr_bpm": 176,
+    "max_hr_bpm": 188,
+    "avg_power_w": 267,
+    "avg_cadence_spm": 160,
+    "active_kcal": 407,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:02",
+        "avg_hr_bpm": 162,
+        "avg_power_w": 292,
+        "avg_cadence_spm": 163
+      },
+      {
+        "km": 2,
+        "duration": "05:31",
+        "avg_hr_bpm": 175,
+        "avg_power_w": 277,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 3,
+        "duration": "06:01",
+        "avg_hr_bpm": 178,
+        "avg_power_w": 255,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 4,
+        "duration": "05:59",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 255,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 5,
+        "duration": "05:53",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:41",
+    "distance_km": 5.05,
+    "avg_hr_bpm": 173,
+    "max_hr_bpm": 184,
+    "avg_power_w": 269,
+    "avg_cadence_spm": 160,
+    "active_kcal": 393,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:32",
+        "avg_hr_bpm": 146,
+        "avg_power_w": 270,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:24",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 284,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 3,
+        "duration": "05:44",
+        "avg_hr_bpm": 180,
+        "avg_power_w": 270,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 4,
+        "duration": "05:53",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 262,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 5,
+        "duration": "05:50",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 263,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:10",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 176,
+    "max_hr_bpm": 191,
+    "avg_power_w": 274,
+    "avg_cadence_spm": 160,
+    "active_kcal": 401,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:11",
+        "avg_hr_bpm": 152,
+        "avg_power_w": 294,
+        "avg_cadence_spm": 165
+      },
+      {
+        "km": 2,
+        "duration": "05:23",
+        "avg_hr_bpm": 175,
+        "avg_power_w": 286,
+        "avg_cadence_spm": 163
+      },
+      {
+        "km": 3,
+        "duration": "05:43",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 271,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 4,
+        "duration": "05:54",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 5,
+        "duration": "05:48",
+        "avg_hr_bpm": 188,
+        "avg_power_w": 268,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:48",
+    "distance_km": 5.01,
+    "avg_hr_bpm": 175,
+    "max_hr_bpm": 189,
+    "avg_power_w": 264,
+    "avg_cadence_spm": 159,
+    "active_kcal": 402,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:17",
+        "avg_hr_bpm": 152,
+        "avg_power_w": 277,
+        "avg_cadence_spm": 165
+      },
+      {
+        "km": 2,
+        "duration": "05:32",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 276,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "05:53",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 4,
+        "duration": "05:56",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 256,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 5,
+        "duration": "06:01",
+        "avg_hr_bpm": 185,
+        "avg_power_w": 260,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "28:55",
+    "distance_km": 5.0,
+    "avg_hr_bpm": 177,
+    "max_hr_bpm": 188,
+    "avg_power_w": 264,
+    "avg_cadence_spm": 157,
+    "active_kcal": 415,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:31",
+        "avg_hr_bpm": 156,
+        "avg_power_w": 271,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:14",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 294,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "05:33",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 278,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 4,
+        "duration": "06:13",
+        "avg_hr_bpm": 184,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 155
+      },
+      {
+        "km": 5,
+        "duration": "06:18",
+        "avg_hr_bpm": 186,
+        "avg_power_w": 241,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "session": "weekend",
+    "environment": "treadmill",
+    "duration": "29:57",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 177,
+    "max_hr_bpm": 190,
+    "avg_power_w": null,
+    "avg_cadence_spm": 154,
+    "active_kcal": 453,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": 85.7,
+    "splits": []
+  },
+  {
+    "date": "2026-07-25",
+    "session": "weekend",
+    "environment": "treadmill",
+    "duration": "28:15",
+    "distance_km": 5.05,
+    "avg_hr_bpm": 175,
+    "max_hr_bpm": 194,
+    "avg_power_w": null,
+    "avg_cadence_spm": 155,
+    "active_kcal": 425,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": []
+  },
+  {
+    "date": "2026-07-28",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "29:15",
+    "distance_km": 5.0,
+    "avg_hr_bpm": 160,
+    "max_hr_bpm": 184,
+    "avg_power_w": 260,
+    "avg_cadence_spm": 157,
+    "active_kcal": 444,
+    "apple_effort_score": 5,
+    "apple_effort_label": "Moderate",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": 85,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:05",
+        "avg_hr_bpm": 153,
+        "avg_power_w": 285,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:34",
+        "avg_hr_bpm": 158,
+        "avg_power_w": 273,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "06:02",
+        "avg_hr_bpm": null,
+        "avg_power_w": 256,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 4,
+        "duration": "06:10",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 155
+      },
+      {
+        "km": 5,
+        "duration": "06:16",
+        "avg_hr_bpm": null,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 156
+      }
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "27:48",
+    "distance_km": 5.0,
+    "avg_hr_bpm": 172,
+    "max_hr_bpm": 190,
+    "avg_power_w": 274,
+    "avg_cadence_spm": 158,
+    "active_kcal": 390,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 2,
+    "weight_in_kg": 84.2,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "04:51",
+        "avg_hr_bpm": 151,
+        "avg_power_w": 302,
+        "avg_cadence_spm": 165
+      },
+      {
+        "km": 2,
+        "duration": "05:23",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 284,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "05:46",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 268,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "05:55",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 262,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 5,
+        "duration": "05:47",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 263,
+        "avg_cadence_spm": 154
+      }
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "session": "weekend",
+    "environment": "treadmill",
+    "duration": "27:58",
+    "distance_km": 5,
+    "avg_hr_bpm": 178,
+    "max_hr_bpm": 193,
+    "avg_power_w": null,
+    "avg_cadence_spm": null,
+    "active_kcal": 387,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 1,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:48",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 2,
+        "duration": "05:38",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 3,
+        "duration": "05:33",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 4,
+        "duration": "05:30",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 5,
+        "duration": "05:29",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "session": "morning",
+    "environment": "outdoor",
+    "duration": "27:38",
+    "distance_km": 5.02,
+    "avg_hr_bpm": 170,
+    "max_hr_bpm": 179,
+    "avg_power_w": 277,
+    "avg_cadence_spm": 158,
+    "active_kcal": 393,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 2,
+    "weight_in_kg": 84.6,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:13",
+        "avg_hr_bpm": 160,
+        "avg_power_w": 289,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:30",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 278,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "05:40",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 271,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "05:40",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 270,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 5,
+        "duration": "05:26",
+        "avg_hr_bpm": 170,
+        "avg_power_w": 280,
+        "avg_cadence_spm": 155
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "session": "weekend",
+    "environment": "treadmill",
+    "duration": "56:41",
+    "distance_km": 10,
+    "avg_hr_bpm": 177,
+    "max_hr_bpm": 187,
+    "avg_power_w": null,
+    "avg_cadence_spm": null,
+    "active_kcal": 739,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": null,
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits_source": "estimated_from_treadmill_speeds",
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:48",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 2,
+        "duration": "05:42",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 3,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 4,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 5,
+        "duration": "05:40",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 6,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 7,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 8,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 9,
+        "duration": "05:39",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 10,
+        "duration": "05:37",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      }
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "session": "morning", 
+    "environment": "outdoor", 
+    "duration": "33:42",
+    "distance_km": 6.01,
+    "avg_hr_bpm": 173,
+    "max_hr_bpm": 180,
+    "avg_power_w": 273,
+    "avg_cadence_spm": 157,
+    "active_kcal": 469,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 3,
+    "weight_in_kg": 84.3,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:17",
+        "avg_hr_bpm": 156,
+        "avg_power_w": 280,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "05:22",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 284,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "05:41",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 270,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 4,
+        "duration": "05:51",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 265,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "05:51",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 264,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 6,
+        "duration": "05:31",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 278,
+        "avg_cadence_spm": 157
+      }
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "session": "morning", 
+    "environment": "outdoor", 
+    "duration": "34:10",
+    "distance_km": 6.03,
+    "avg_hr_bpm": 175,
+    "max_hr_bpm": 181,
+    "avg_power_w": 270,
+    "avg_cadence_spm": 159,
+    "active_kcal": 472,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 3,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:14",
+        "avg_hr_bpm": 156,
+        "avg_power_w": 285,
+        "avg_cadence_spm": 164
+      },
+      {
+        "km": 2,
+        "duration": "05:23",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 283,
+        "avg_cadence_spm": 163
+      },
+      {
+        "km": 3,
+        "duration": "05:39",
+        "avg_hr_bpm": 177,
+        "avg_power_w": 275,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 4,
+        "duration": "05:47",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 267,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 5,
+        "duration": "05:55",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 260,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 6,
+        "duration": "05:57",
+        "avg_hr_bpm": 178,
+        "avg_power_w": 258,
+        "avg_cadence_spm": 159
+      }
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "session": "weekend", 
+    "environment": "outdoor", 
+    "duration": "19:44",
+    "distance_km": 3.39,
+    "avg_hr_bpm": 159,
+    "max_hr_bpm": 181,
+    "avg_power_w": 263,
+    "avg_cadence_spm": 158,
+    "active_kcal": 264,
+    "apple_effort_score": 5,
+    "apple_effort_label": "Moderate",
+    "rpe": "medium",
+    "fatigue_before_1_5": 2,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "06:35",
+        "avg_hr_bpm": 143,
+        "avg_power_w": 223,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 2,
+        "duration": "05:54",
+        "avg_hr_bpm": 157,
+        "avg_power_w": 267,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "05:12",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 294,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 4,
+        "duration": "04:59",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 304,
+        "avg_cadence_spm": 162
+      }
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "session": "morning", 
+    "environment": "outdoor", 
+    "duration": "36:42",
+    "distance_km": 6.52,
+    "avg_hr_bpm": 180,
+    "max_hr_bpm": 194,
+    "avg_power_w": 272,
+    "avg_cadence_spm": 157,
+    "active_kcal": 512,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:19",
+        "avg_hr_bpm": 160,
+        "avg_power_w": 280,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:29",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 280,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 3,
+        "duration": "05:51",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 266,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 4,
+        "duration": "05:55",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 259,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 5,
+        "duration": "05:40",
+        "avg_hr_bpm": 186,
+        "avg_power_w": 269,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 6,
+        "duration": "05:33",
+        "avg_hr_bpm": 189,
+        "avg_power_w": 277,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 7,
+        "duration": "05:28",
+        "avg_hr_bpm": 191,
+        "avg_power_w": 288,
+        "avg_cadence_spm": 157
+      }
+    ]
+  },
+  {
+  "date": "2026-08-19",
+  "session": "weekend",
+  "environment": "treadmill",
+  "duration": "28:27",
+  "distance_km": 5.0,
+  "avg_hr_bpm": 176,
+  "max_hr_bpm": 189,
+  "avg_power_w": null,
+  "avg_cadence_spm": null,
+  "active_kcal": null,
+  "apple_effort_score": 6,
+  "apple_effort_label": "Moderate",
+  "rpe": null,
+  "fatigue_before_1_5": 1,
+  "weight_in_kg": null,
+  "splits": [
+      {
+        "km": 1,
+        "duration": "05:48",
+        "avg_hr_bpm": 144,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 2,
+        "duration": "05:43",
+        "avg_hr_bpm": 176,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 3,
+        "duration": "05:43",
+        "avg_hr_bpm": 180,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 4,
+        "duration": "05:42",
+        "avg_hr_bpm": 184,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 5,
+        "duration": "05:31",
+        "avg_hr_bpm": 187,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "session": "morning", 
+    "environment": "outdoor", 
+    "duration": "25:37",
+    "distance_km": 4.22,
+    "avg_hr_bpm": 175,
+    "max_hr_bpm": 189,
+    "avg_power_w": 254,
+    "avg_cadence_spm": 156,
+    "active_kcal": 336,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 2,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "06:01",
+        "avg_hr_bpm": 159,
+        "avg_power_w": 241,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 2,
+        "duration": "05:50",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 268,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 3,
+        "duration": "05:49",
+        "avg_hr_bpm": 182,
+        "avg_power_w": 265,
+        "avg_cadence_spm": 157
+      },
+      {
+        "km": 4,
+        "duration": "06:25",
+        "avg_hr_bpm": 182,
+        "avg_power_w": 249,
+        "avg_cadence_spm": 153
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "session": "morning", 
+    "environment": "outdoor", 
+    "duration": "41:33",
+    "distance_km": 6.71,
+    "avg_hr_bpm": 174,
+    "max_hr_bpm": 180,
+    "avg_power_w": 248,
+    "avg_cadence_spm": 158,
+    "active_kcal": 534,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": 3,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:50",
+        "avg_hr_bpm": 170,
+        "avg_power_w": 260,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 2,
+        "duration": "06:03",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 255,
+        "avg_cadence_spm": 160
+      },
+      {
+        "km": 3,
+        "duration": "06:14",
+        "avg_hr_bpm": 174,
+        "avg_power_w": 248,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "06:10",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 251,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 5,
+        "duration": "06:13",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 247,
+        "avg_cadence_spm": 158
+      },
+      {
+        "km": 6,
+        "duration": "06:28",
+        "avg_hr_bpm": 173,
+        "avg_power_w": 235,
+        "avg_cadence_spm": 156
+      },
+      {
+        "km": 7,
+        "duration": "06:21",
+        "avg_hr_bpm": 176,
+        "avg_power_w": 242,
+        "avg_cadence_spm": 158
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "session": "weekend", 
+    "environment": "outdoor", 
+    "duration": "21:17",
+    "distance_km": 3.87,
+    "avg_hr_bpm": 176,
+    "max_hr_bpm": 189,
+    "avg_power_w": 279,
+    "avg_cadence_spm": 159,
+    "active_kcal": 303,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:28",
+        "avg_hr_bpm": 158,
+        "avg_power_w": 269,
+        "avg_cadence_spm": 162
+      },
+      {
+        "km": 2,
+        "duration": "05:13",
+        "avg_hr_bpm": 181,
+        "avg_power_w": 294,
+        "avg_cadence_spm": 161
+      },
+      {
+        "km": 3,
+        "duration": "05:37",
+        "avg_hr_bpm": 179,
+        "avg_power_w": 279,
+        "avg_cadence_spm": 159
+      },
+      {
+        "km": 4,
+        "duration": "05:41",
+        "avg_hr_bpm": 183,
+        "avg_power_w": 275,
+        "avg_cadence_spm": 156
+      }
+    ]
+  },
+  {
+    "date": "YYYY-MM-DD",
+    "session": "morning / weekend", 
+    "environment": "outdoor / treadmill", 
+    "duration": "28:00",
+    "distance_km": 5.0,
+    "avg_hr_bpm": null,
+    "max_hr_bpm": null,
+    "avg_power_w": null,
+    "avg_cadence_spm": null,
+    "active_kcal": null,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 2,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 3,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 4,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 5,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      }
+    ]
+  },
+  {
+    "date": "YYYY-MM-DD",
+    "session": "morning / weekend", 
+    "environment": "outdoor / treadmill", 
+    "duration": "28:00",
+    "distance_km": 5.0,
+    "avg_hr_bpm": null,
+    "max_hr_bpm": null,
+    "avg_power_w": null,
+    "avg_cadence_spm": null,
+    "active_kcal": null,
+    "apple_effort_score": 7,
+    "apple_effort_label": "Difficult",
+    "rpe": "medium",
+    "fatigue_before_1_5": null,
+    "weight_in_kg": null,
+    "splits": [
+      {
+        "km": 1,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 2,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 3,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 4,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      },
+      {
+        "km": 5,
+        "duration": "05:00",
+        "avg_hr_bpm": null,
+        "avg_power_w": null,
+        "avg_cadence_spm": null
+      }
+    ]
+  }
+]
